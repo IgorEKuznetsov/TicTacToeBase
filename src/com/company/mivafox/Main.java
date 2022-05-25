@@ -81,6 +81,7 @@ public class Main
     }
 
     // Вывод поля
+    //some update
     static void printMap()
     {
         for (int i = 0; i <= map.length; i++)
